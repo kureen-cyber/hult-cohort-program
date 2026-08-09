@@ -7,3 +7,5 @@ Proof-of-work for Week 4 Ludwitt learning lives in:
 - **App ID:** `le_42901d22b6f990da1324b3`
 - **Production:** https://interview-forge-rosy.vercel.app
 - **Canonical repo:** https://github.com/kureen-cyber/Educational-Learning-App
+
+See `SUBMISSION.md` in the participant folder for authorize URL + userinfo / `Events` curl evidence.
